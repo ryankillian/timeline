@@ -1,6 +1,7 @@
 <pre>
-███████████████████████████████████████████████████████████████████████████████████████████████████████████████████
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ Richie Hawtin live shows ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+████████████████████████████████████████████████████████████████████████████████████████████████████████
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ Richie Hawtin live shows ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 
+
 .
 └── 2025
 
@@ -152,11 +153,16 @@
     ├── Feb
     └── Jan
 
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-███████████████████████████████████████████████████████████████████████████████████████████████████████████████████
-
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+████████████████████████████████████████████████████████████████████████████████████████████████████████
 </pre>
 
-- Chronological Richie Hawtin
-- Youtube links
-- ✨ means posted to Richie Hawtin's official channel
+### Chronological Timeline of Richie Hawtin's Live Shows
+
+This repository provides a visual timeline of Richie Hawtin's live performances with links to the shows available on YouTube.
+
+- **Chronological**: Shows are listed in the order they occurred.
+- **YouTube Links**: Direct links to each performance.
+- **✨**: Indicates videos posted on the official <a href="https://www.youtube.com/@richiehawtin/featured" >Richie Hawtin YouTube channel</a>.
+
+**Note**: This repository is not an official Richie Hawtin product. It serves to make selecting and viewing live shows on YouTube easier.
