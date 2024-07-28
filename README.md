@@ -1,17 +1,3 @@
-<style>
-    .link-color {
-        color: #88D66C;
-        text-decoration: none;
-        cursor: pointer;
-    }
-    .link-color:visited {
-        color: #88D66C;
-    }
-    .link-color:hover {
-        text-decoration: none;
-        color: #73BBA3;
-    }
-</style>
 <pre>
 ██████████████████████████████████████████████████████████████████████
 ░░░░░░░░░░░░░░░░░░░░░░░░ Richie Hawtin live shows ░░░░░░░░░░░░░░░░░░░░
@@ -170,6 +156,21 @@
 ██████████████████████████████████████████████████████████████████████
 
 </pre>
+
+<style>
+    .link-color {
+        color: #88D66C;
+        text-decoration: none;
+        cursor: pointer;
+    }
+    .link-color:visited {
+        color: #88D66C;
+    }
+    .link-color:hover {
+        text-decoration: none;
+        color: #73BBA3;
+    }
+</style>
 
 - Chronological Richie Hawtin
 - Youtube links
