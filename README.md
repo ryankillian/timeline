@@ -21,8 +21,6 @@
     │   ├── 26 - <a href="https://www.youtube.com/watch?v=6JMRUyJEDEk" >Belgium, Antwerp, Garage Klub ✨</a>
     │   └── 20 - <a href="https://www.youtube.com/watch?v=R2zQ8AMb3wM" >Japan, Tokyo, Womb ✨</a>
     │
-    ├── May
-    ├── Apr
     ├── Mar
     ├── Feb
     └── Jan
@@ -110,8 +108,6 @@
     ├── May
     ├── Apr
     │   └── 07 - <a href="https://www.youtube.com/watch?v=JKKsLLvMdlY" >Germany, Mannheim, Time Warp ✨</a>
-    ├── May
-    ├── Apr
     ├── Mar
     ├── Feb
     └── Jan
@@ -129,8 +125,6 @@
     │   └── 08 - <a href="https://www.youtube.com/watch?v=JlsScIadPVo" >UK, London, Junction 2 Festival ✨</a>
     ├── May
     ├── Apr
-    ├── May
-    ├── Apr
     ├── Mar
     ├── Feb
     └── Jan
@@ -145,8 +139,6 @@
     ├── Aug
     ├── Jul
     ├── Jun
-    ├── May
-    ├── Apr
     ├── May
     ├── Apr
     ├── Mar
