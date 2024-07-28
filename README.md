@@ -15,12 +15,10 @@
     ├── Jul
     ├── Jun
     │   └── 14 - <a href="https://www.youtube.com/watch?v=xxWOkZrHprY" >Spain, Sónar 2024</a>
-    │
     ├── May
     ├── Apr
     │   ├── 26 - <a href="https://www.youtube.com/watch?v=6JMRUyJEDEk" >Belgium, Antwerp, Garage Klub ✨</a>
     │   └── 20 - <a href="https://www.youtube.com/watch?v=R2zQ8AMb3wM" >Japan, Tokyo, Womb ✨</a>
-    │
     ├── Mar
     ├── Feb
     └── Jan
