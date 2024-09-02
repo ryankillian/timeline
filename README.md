@@ -144,6 +144,37 @@
     ├── Feb
     └── Jan
 
+.
+└── 2016
+    ├── Dec
+    ├── Nov
+    ├── Oct
+    ├── Sep
+    ├── Aug
+    ├── Jul
+    ├── Jun
+    ├── May
+    ├── Apr
+    ├── Mar
+    ├── Feb
+    └── Jan
+
+.
+└── 2015
+    ├── Dec
+    ├── Nov
+    ├── Oct
+    ├── Sep
+    ├── Aug
+    ├── Jul
+    │   └── 26 - <a href="https://www.youtube.com/watch?v=OJlwZAHp6Fk" >Tomorrowland 2015</a>
+    ├── Jun
+    ├── May
+    ├── Apr
+    ├── Mar
+    ├── Feb
+    └── Jan
+
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ████████████████████████████████████████████████████████████████████████████████████████████████████████
 </pre>
@@ -156,4 +187,4 @@ This repository provides a visual timeline of Richie Hawtin's live performances 
 - **YouTube Links**: Direct links to each performance.
 - **✨**: Indicates videos posted on the official <a href="https://www.youtube.com/@richiehawtin/featured" >Richie Hawtin YouTube channel</a>.
 
-**Note**: This repository is not an official Richie Hawtin product. It serves to make selecting and viewing live shows on YouTube easier.
+Note: This timeline is not exhaustive. It primarily includes official shows and a few others that are particularly noteworthy. The repository is not an official Richie Hawtin product but aims to make selecting and listening to live shows on YouTube easier.
